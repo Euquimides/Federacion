@@ -12,12 +12,13 @@ La Federación tendrá los siguientes fines principales:
 
 1. Coordinar, representar y defender los intereses comunes de las asociaciones federadas ante instituciones públicas y privadas.
 2. Fomentar la colaboración, el intercambio de experiencias y la solidaridad entre las asociaciones miembros.
-3. Promover programas, proyectos y actividades que impulsen el desarrollo de [indicar el sector/ámbito de actuación, ej. la cultura, el deporte, el medio ambiente, etc.].
-4. Prestar servicios de asesoramiento, formación e información a las entidades integrantes.
+3. Conocer la ruta estratégica de cada asociación miembro para el desarrollo de su sector y sus agremiados.
+4. Promover programas, proyectos y actividades que impulsen el desarrollo del sector cultura enfocado mas no exclusivamente en las áreas de producción audiovisual. Entre esas se incluyen producciones de cine, teatro, fotografía, videojuegos, animación, televisión, cómics y novelas gráficas, música, entre otras.
+5. Prestar servicios de asesoramiento, formación e información a las entidades integrantes.
 
 **Artículo 3. Ámbito territorial y duración**
 
-El ámbito territorial en el que la Federación desarrollará principalmente sus actividades es [Nacional / Autonómico / Provincial / Internacional], fijándose su duración por tiempo indefinido.
+El ámbito territorial en el que la Federación desarrollará principalmente sus actividades es Nacional, circunscrito al territorio costarricense, fijándose su duración por tiempo indefinido.
 
 **Artículo 4. Domicilio social**
 
@@ -33,7 +34,7 @@ Para su admisión, la asociación interesada deberá presentar:
 
 1. Solicitud formal firmada por su representante legal.
 2. Acuerdo del órgano competente de la asociación solicitante donde se apruebe la incorporación a la Federación.
-3. Copia de sus Estatutos y certificado de inscripción registral.
+3. Copia de sus Estatutos y personería jurídica.
 
 La decisión de admisión corresponderá a la Junta Directiva, debiendo ser ratificada en la siguiente Asamblea General.
 
@@ -97,6 +98,8 @@ Los acuerdos se tomarán por mayoría simple de votos de las entidades presentes
 
 **Artículo 13. Composición y mandato**
 
+<span style="color:red">En la conformación de la JD me gustaría que se garantice que al menos Cine, Animación y Videojuegos tengan una silla garantizada. Algo así como se formula la JD de algo como la Promotora de Innovación (https://www.promotora.go.cr/web/promotora/junta_directiva)</span>
+
 La Junta Directiva es el órgano que gestiona y representa los intereses de la Federación. Estará formada por:
 
 - **Presidencia**
@@ -117,6 +120,8 @@ Los cargos serán ejercidos por personas físicas pertenecientes a las asociacio
 ## CAPÍTULO IV. RÉGIMEN ECONÓMICO Y DOCUMENTAL
 
 **Artículo 15. Patrimonio inicial y recursos económicos**
+
+<span style="color:red"> ¿Se puede hacer la federación sin cuotas periódicas? ¿O buscar un modelo que permita operar inicialmente sin tener que lidiar con la complejidad de las cuotas? ¿Se puede dejar la prevista para que la federación inicie sin cuotas y la AG decida si quiere en el algún momento futuro empezar a cobrar?</span>
 
 El patrimonio inicial de la Federación es de [monto/cero] euros/divisa.
 
