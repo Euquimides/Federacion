@@ -14,7 +14,7 @@ Documento de trabajo. Reúne en un solo lugar lo que dicen la investigación del
 
 ## 2. Cómo se organiza la prueba piloto
 
-- **Comité Impulsor**: 5 a 7 personas, con cupo garantizado para cine, videojuegos y artes escénicas. Se renueva un tercio cada año. Fija objetivos, resuelve conflictos y es la única vocería del grupo.
+- **Comité Impulsor**: 5 a 7 personas, con cupo garantizado para cine, videojuegos, actores y actrices. Se renueva un tercio cada año. Fija objetivos, resuelve conflictos y es la única vocería del grupo.
 - **Mesas temáticas**: cuatro, cada una con dos coordinadores de organizaciones distintas (para que nadie sea imprescindible):
   1. Propiedad intelectual transmedia
   2. Mercado conjunto y exportación
@@ -40,7 +40,7 @@ Nada de esto obliga legalmente, pero define las reglas del juego:
 - Bolsa común de talento para proyectos transmedia.
 
 **Comercial**
-- Presentación conjunta en el Costa Rica Media Market y en ferias internacionales.
+- Presentaciones conjuntas en diversos eventos. 
 - Campañas coordinadas alrededor de una misma propiedad intelectual (videojuego + serie + obra).
 - Búsqueda conjunta de patrocinadores.
 
@@ -77,7 +77,6 @@ La agenda pública se limita a estos tres temas, para que no se lea como agenda 
 
 Reglas de la etapa 1, mientras no haya cédula jurídica:
 - Todo contrato con terceros lo firma una asociación miembro identificada, con autorización escrita que diga exactamente qué puede hacer en nombre del grupo.
-- Los fondos (El Fauno, Ibermedia, patrocinios) se postulan a través de una asociación ya inscrita.
 - La operación se sostiene con aportes en especie: horas, espacios, equipo. Cada asociación cubre sus propios gastos.
 - Proyectos cortos, máximo dos a la vez, con resultados visibles pronto.
 
@@ -85,4 +84,3 @@ Reglas de la etapa 1, mientras no haya cédula jurídica:
 
 1. **Definir por escrito quién firma y de quién son los derechos.** Sin esto no hay dueño claro de las obras ni acceso a fondos.
 2. **Firmar la Carta de Intención y el Código de Ética.** La unión se sostiene solo en la confianza; el papel es lo único que la respalda.
-3. **Aclarar el reparto de roles con la Organización Multisectorial**, para no competir por hablar en nombre del sector.

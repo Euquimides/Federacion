@@ -6,7 +6,7 @@ Hay tres formas de hacerlo, de menos a más formal:
 
 - **Red de trabajo informal / consorcio de hecho**: un grupo que se pone de acuerdo y trabaja junto, sin papeles ni registro.
 - **Convenio marco de cooperación**: un documento firmado que dice qué van a hacer juntas, pero sin crear una entidad nueva.
-- **Asociación civil formal**: la organización inscrita en el Registro, con cédula jurídica propia. Se incluye aquí solo como punto de comparación; es la meta, no el punto de partida.
+- **Asociación civil formal (Federación)**: la organización inscrita en el Registro, con cédula jurídica propia. Se incluye aquí solo como punto de comparación; es la meta, no el punto de partida.
 
 Cada riesgo se califica por **qué tan probable es** y **qué tan grave sería**: Alta (A), Media (M) o Baja (B). La columna "Gravedad total" combina ambas.
 
@@ -30,9 +30,8 @@ Cada riesgo se califica por **qué tan probable es** y **qué tan grave sería**
 | G3 | **Todo se traba porque se exige acuerdo unánime.** | M | M | Medio | Unanimidad solo para decisiones grandes; para lo cotidiano, mayoría simple o de dos tercios. |
 | G4 | **El poder se concentra** en el Comité Impulsor o en la organización con más recursos. | M | M | Medio | Comité de 5 a 7 personas, con representación equilibrada de cine, videojuegos y teatro, y cambio de un tercio de sus miembros cada año. |
 | G5 | **Los sectores más pequeños quedan de último** frente a la agenda del cine. | M | A | **Alto** | Garantizar un cupo por sector en el Comité y en las mesas de trabajo, y que la agenda incluya al menos un tema propio de videojuegos y de artes escénicas. |
-| G6 | **Se pisa con la Organización Multisectorial que ya existe** (APICC, CCR, UDCCR, DOKUS, ACSA, ASODEV, InterArtis) y compiten por hablar en nombre del sector. | M | A | **Alto** | Definir desde el inicio que este grupo se dedica a lo transmedia y a lo operativo-comercial, y que coordina con la Multisectorial en vez de reemplazarla. |
-| G7 | **Firmar el convenio se lee como obligación de formalizar**, y eso espanta a quienes no quieren llegar tan lejos. | M | M | Medio | Decir expresamente en la Carta de Intención que la participación es voluntaria y que nadie pierde su autonomía. |
-| G8 | **No queda registro de lo acordado**, lo que genera desconfianza y malentendidos. | M | M | Medio | Actas de cada reunión enviadas a todas las asociaciones, un canal común de comunicación y una reunión mensual. |
+| G6 | **Firmar el convenio se lee como obligación de formalizar**, y eso espanta a quienes no quieren llegar tan lejos. | M | M | Medio | Decir expresamente en la Carta de Intención que la participación es voluntaria y que nadie pierde su autonomía. |
+| G7 | **No queda registro de lo acordado**, lo que genera desconfianza y malentendidos. | M | M | Medio | Actas de cada reunión enviadas a todas las asociaciones, un canal común de comunicación y una reunión mensual. |
 
 ## 3. Riesgos de dinero y de funcionamiento
 
@@ -58,7 +57,6 @@ Cada riesgo se califica por **qué tan probable es** y **qué tan grave sería**
 
 1. **J1, J2 y F1** — sin figura legal no hay dueño claro de las obras ni acceso a fondos. Antes del primer proyecto: definir por escrito qué asociación firma y de quién son los derechos.
 2. **G1** — la unión se sostiene solo en la confianza. La Carta de Intención y el Código de Ética se firman al inicio, no después.
-3. **G6** — aclarar desde el día uno quién habla en nombre del sector, para no chocar con la Organización Multisectorial.
 
 ## Comparación rápida entre las tres formas
 
@@ -66,4 +64,4 @@ Cada riesgo se califica por **qué tan probable es** y **qué tan grave sería**
 | :--- | :--- | :--- |
 | **Red informal / consorcio de hecho** | Riesgo legal y económico alto, pero exige poco compromiso. | Para arrancar: rápida, barata y fácil de corregir sobre la marcha. |
 | **Convenio marco de cooperación** | Riesgo legal medio; aparece la rigidez y la presión por formalizar. | Cuando una colaboración ya demostró que funciona y conviene dejarla por escrito. |
-| **Asociación civil formal** | Riesgo legal bajo, pero cuesta dinero y se pierde si el grupo no funciona. | Al final del camino, cuando ya se comprobó que vale la pena. |
+| **Asociación civil formal (Federación)** | Riesgo legal bajo, pero cuesta dinero y se pierde si el grupo no funciona. | Al final del camino, cuando ya se comprobó que vale la pena. |
